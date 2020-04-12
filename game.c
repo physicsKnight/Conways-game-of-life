@@ -1,8 +1,5 @@
-#include <SDL2/SDL.h>
 #include <stdlib.h>
 
-#include "config.h"
-#include "cells.h"
 #include "game.h"
 
 void initBoard(game_t *game) {

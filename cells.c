@@ -1,7 +1,5 @@
-#include <SDL2/SDL.h>
 #include <stdbool.h>
 
-#include "config.h"
 #include "cells.h"
 
 void drawCell(SDL_Renderer *renderer, Cell *cell) {

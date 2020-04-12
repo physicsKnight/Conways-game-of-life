@@ -4,6 +4,8 @@
 #include <SDL2/SDL.h>
 #include <stdbool.h>
 
+#include "config.h"
+
 typedef struct {
     bool alive;
     int row;

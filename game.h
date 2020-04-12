@@ -1,7 +1,6 @@
 #ifndef GAME_H_
 #define GAME_H_
 
-#include "config.h"
 #include "cells.h"
 
 typedef struct {
